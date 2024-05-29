@@ -1,0 +1,14 @@
+C:\Users\dawis\Desktop\VRisingMods\RewriteCode\bin\Debug\net6.0\RewriteCode.deps.json
+C:\Users\dawis\Desktop\VRisingMods\RewriteCode\bin\Debug\net6.0\RewriteCode.dll
+C:\Users\dawis\Desktop\VRisingMods\RewriteCode\bin\Debug\net6.0\RewriteCode.pdb
+C:\Users\dawis\Desktop\VRisingMods\RewriteCode\obj\Debug\net6.0\RewriteCode.csproj.AssemblyReference.cache
+C:\Users\dawis\Desktop\VRisingMods\RewriteCode\obj\Debug\net6.0\MyPluginInfo.cs
+C:\Users\dawis\Desktop\VRisingMods\RewriteCode\obj\Debug\net6.0\RewriteCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawis\Desktop\VRisingMods\RewriteCode\obj\Debug\net6.0\RewriteCode.AssemblyInfoInputs.cache
+C:\Users\dawis\Desktop\VRisingMods\RewriteCode\obj\Debug\net6.0\RewriteCode.AssemblyInfo.cs
+C:\Users\dawis\Desktop\VRisingMods\RewriteCode\obj\Debug\net6.0\RewriteCode.csproj.CoreCompileInputs.cache
+C:\Users\dawis\Desktop\VRisingMods\RewriteCode\obj\Debug\net6.0\RewriteCode.dll
+C:\Users\dawis\Desktop\VRisingMods\RewriteCode\obj\Debug\net6.0\refint\RewriteCode.dll
+C:\Users\dawis\Desktop\VRisingMods\RewriteCode\obj\Debug\net6.0\RewriteCode.pdb
+C:\Users\dawis\Desktop\VRisingMods\RewriteCode\obj\Debug\net6.0\ref\RewriteCode.dll
+C:\Users\dawis\Desktop\VRisingMods\RewriteCode\obj\Debug\net6.0\RewriteCode.sourcelink.json
